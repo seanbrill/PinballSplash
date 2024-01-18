@@ -1,4 +1,4 @@
-# Pinball Splash - Unity Game Jam Project
+# Pinball Splash - Penn State IST Game Development Project
 
 ## Overview
 
